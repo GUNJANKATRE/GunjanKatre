@@ -1,4 +1,3 @@
-//![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5fTvBqEpyLmHNzZVx0YlKR5wOxFoLRAtZxA&s)
 
 <h1 align="center">Hi 👋, I'm Gunjan</h1>
 <h3 align="center">A passionate Java Developer From India</h3>
